@@ -1,0 +1,23 @@
+h1{
+    color:blue;
+    background-color: green;
+    font-size: 100px;
+    font-style:italic;
+
+
+}
+
+.test{
+    width: 100px;
+    height: 100px;
+    background: black;
+    color: green;
+    margin: 1cm;
+    padding:10px;
+    border:5px solid red;
+    position:absolute;
+    bottom:1cm;
+    right:1cm;
+
+    
+}
